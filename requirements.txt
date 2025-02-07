@@ -1,0 +1,21 @@
+ipykernel # from jupiter notebook
+pandas
+numpy
+matplotlib
+plotly
+seaborn
+scikit-learn
+pymongo  # from mongoDB 
+from_root  # from come back to root
+dill   # 
+certifi # ensuring secure HTTPS connections in Python applications.
+PyYAML # The official AWS SDK for Python, enabling interaction with AWS services like S3, EC2, and DynamoDB.
+boto3 # The low-level core library for AWS services, providing essential functionalities for boto3.
+mypy-boto3-s3
+botocore 
+fastapi
+python-multipart
+uvicorn # An ASGI server for running FastAPI and other ASGI-based applications, supporting high concurrency.
+jinja2 # A templating engine for Python, commonly used in web applications to dynamically generate HTML pages.
+imblearn # for imbalnace data
+-e .
